@@ -1,0 +1,10 @@
+*.dat
+*.out
+*.txt
+*.sout
+*.log
+test*.pl
+*test.pl
+**/
+!data4adsorption_example/
+nohup.out
